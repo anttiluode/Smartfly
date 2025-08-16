@@ -1,5 +1,7 @@
 # SmartFly — A Tiny Creature With a Homeostatic Brain
 
+![image](image.png)
+
 SmartFly is a webcam-driven simulation where a single “fly” moves on top of your live video feed.
 Its behavior isn’t scripted. It emerges from an oscillatory control system that tries to keep its internal state viable.
 
